@@ -1706,6 +1706,10 @@ article:last-child {
   ul.actions:not(.fixed) li .button.icon:before {
     margin-left: -0.5em;
   }
+
+  .dark a {
+    color: #595959;
+  }
 }
 
 /* Form */
