@@ -2885,7 +2885,7 @@ input[type="button"].small,
 }
 
 .border_round {
-  border-radius: 5px;
+  border-radius: 10px;
   /* box-shadow: 5px 5px 5px rgb(87, 51, 63); */
 }
 
